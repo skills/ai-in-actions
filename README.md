@@ -7,7 +7,7 @@ _Learn how to integrate AI models directly into your GitHub Actions workflows us
 - **Who is this for**: Developers new to AI integration who want to learn how to incorporate AI capabilities into their GitHub Actions workflows
 - **What you'll learn**: How to use GitHub Models service to add AI inference to your workflows, pass dynamic data to AI prompts, and combine AI actions with other GitHub Actions
 - **What you'll build**: A basic AI question-answering workflow and an automated issue analysis system that comments on new issues
-- **Prerequisites**: Basic familiarity of GitHub Actions (e.g taught in [Hello GitHub Actions](https://github.com/skills-dev/hello-github-actions) exercise)
+- **Prerequisites**: Basic familiarity of GitHub Actions (e.g taught in [Hello GitHub Actions](https://github.com/skills/hello-github-actions) exercise)
 - **How long**: This exercise takes less than 30 minutes to complete.
 
 In this exercise, you will:
